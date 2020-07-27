@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Localization and Internalization</string>
+    <string name="txt_hello">Api level 24?</string>
+</resources>
